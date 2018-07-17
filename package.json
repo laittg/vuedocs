@@ -1,0 +1,17 @@
+{
+  "name": "vuedocs",
+  "version": "0.12.0",
+  "description": "VuePress Docs",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laittg/vuedocs.git"
+  },
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laittg/vuedocs/issues"
+  },
+  "homepage": "https://github.com/laittg/vuedocs#readme"
+}
